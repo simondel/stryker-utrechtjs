@@ -1,3 +1,1 @@
 # Mutation testing
-_*William Stryker:* Mutants serve their purpose...          
-as long as they can be controlled._

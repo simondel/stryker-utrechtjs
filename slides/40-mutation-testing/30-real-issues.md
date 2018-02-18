@@ -1,6 +1,6 @@
 ### Real issues
 
-```js
+```gherkin
 Given team member is allowed to assign the role 'Reader'
 When the team member adds the following member to the team
 | field     | value                  |

@@ -1,8 +1,8 @@
-### Mutation testing process
+### How it works
 
 1. Production code is mutated
-    * A mutated version of your app is called a Mutant
-1. Your tests are ran for each Mutant
-    * If tests fail, the mutant is killed
-    * If tests pass, the mutant survived
-1. The percentage of mutants that got killed is your mutation score
+    * Collecting _mutants_
+1. Run your tests for each Mutant
+    * If tests _fail_, the mutant is _killed_
+    * If tests _pass_, the mutant _survives_
+1. The % of killed mutants is your _mutation score_

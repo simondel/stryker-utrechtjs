@@ -1,12 +1,9 @@
 ### Who has seen disabled tests?
 
-```cs
-[TestMethod]
-[Ignore]
-public void Status_WithId34_ShouldFindItemWithId34()
-{
-    // Act
-    var viewResult = _sut.Status(34) as ViewResult;
+```js
+xit('should set default thresholds as expected', () => {
+    expect(sut.thresholds).deep.eq(defaultThresholds);
+});
 ```
     
 ```js
