@@ -26,6 +26,6 @@ For example: the reporter plugin
 
 ### Expendable - Other examples
 
-* Use the Jest test runner
+* Choose Jest, Karma, Mocha, etc
 * Choose the language of your source code
 * Transpile code before running tests

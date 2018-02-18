@@ -34,6 +34,7 @@
     <div class="content">
       <h3>Jan-2017</h3>
       <p>Stryker hackathon with Students</p>
+      <img src="../../img/first-hackathon.png" alt="hackathon">
     </div>
   </div>
   <div class="container right">
@@ -58,7 +59,7 @@
     <div class="content">
       <h3>Nov-2017</h3>
       <p>Second hackathon</p>
-      <img src="../../img/second-stryker-hackathon.jpg" alt="hackathon">
+      <img src="../../img/second-hackathon.png" alt="hackathon">
     </div>
   </div>
   <div class="container left">
